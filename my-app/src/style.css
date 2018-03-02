@@ -1,0 +1,24 @@
+.ui.topmenu.menu{
+  background-color: black;
+  margin: 0px 0px 0px 0px;
+  border-radius: 0px;
+}
+
+.ui.right.item{
+  color: #ccc;
+}
+
+.orange-background{
+  background-color: #f96d21;
+}
+.bottom-text{
+  font-size: 25px;
+  color: white;
+  text-align: center;
+}
+.text{
+  color: white;
+}
+.span{
+  text-align: center;
+}
